@@ -1,6 +1,6 @@
-## :man: Antoine
-[![linkedin](https://www.linkedin.com/in/antoine-bayssac-74262b213/)
+## :man: Antoine Bayssac
 
+[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/antoine-bayssac-74262b213/)
 
 ### :point_right: Compétences
 #### Langages / Frameworks

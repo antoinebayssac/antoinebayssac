@@ -11,7 +11,6 @@
 <p> ⭐ I am a serious person </p>
 <p> ⭐ I am respectful and I respect everyone's work </p>
 <p> ⭐ I'm well mannered and smiling</p>
-<p> ⭐ I'm well mannered and smiling</p>
 
 
 
